@@ -1,0 +1,77 @@
+{
+    // Customization-workbench
+    "workbench.colorCustomizations": {
+      "inlineparameters.annotationBackground": "#282A3600",
+      "inlineparameters.annotationForeground": "#7b82af",
+      "scrollbar.shadow": "#24292e00",
+      "terminal.background": "#212121"
+    },
+  
+    "workbench.editorLargeFileConfirmation": 10024,
+    "workbench.layoutControl.enabled": false,
+    "workbench.tree.indent": 16,
+    "workbench.startupEditor": "none",
+    "workbench.editor.empty.hint": "hidden",
+  
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.symbolPath": "off",
+    "breadcrumbs.filePath": "on",
+  
+   
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": 450,
+    "editor.lineHeight": 26,
+    "editor.lineNumbers": "on",
+    "editor.folding": true,
+    "editor.glyphMargin": true,
+    "editor.guides.indentation": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "editor.stickyScroll.enabled": false,
+  
+   
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "'MesloLGS NF', 'Hack Nerd Font', Monospace",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.enableMultiLinePasteWarning": "always",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+
+    //   path
+    "vscode_custom_css.imports": [
+      "file:///C:/Users/theun/.vscode/vscode-custom/script.js",
+      "file:///C:/Users/theun/.vscode/vscode-custom/style.css"
+    ],
+  
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "workbench.sideBar.location": "right",
+    "workbench.tips.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.minimap.autohide": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.settings.editor": "json",
+    "workbench.settings.applyToAllProfiles": [
+      "workbench.colorCustomizations"
+    ],
+    "window.titleBarStyle": "native",
+    // "vscode_vibrancy.preferedDarkTheme": "Dark (Only Subbar)",
+    // "vscode-blur-linux.opacity": 80,
+    "update.enableWindowsBackgroundUpdates": false,
+    "remote.WSL.downloadInBackground": false,
+    "zenMode.hideStatusBar": false,
+    "debug.showInStatusBar": "always",
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme"
+  }
+  
